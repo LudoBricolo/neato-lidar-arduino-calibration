@@ -5,9 +5,12 @@ This repository documents the testing, calibration, and optimization results for
 ## 🎯 Key Calibration Results
 Contrary to common misconceptions and vague online documentation (which often suggest 3.3V or 5V depending on the generation), rigorous metrology using a **stable laboratory power supply** established the optimal parameters for this hardware:
 
+* **Motor reference** : **RF-300FA-12350 - DC 5.9 V**
 * **Optimal Motor Supply Voltage**: **2.5 V**
 * **Stabilized Rotation Speed**: **~296 RPM** (extremely close to the theoretical original target of 300 RPM, or 5 Hz).
 * **Optical Precision**: Ultra-stable and repeatable distance measurements (e.g., a constant ~260 mm on a fixed target).
+
+*  **Power supply for the Neato D8 Lidar board** : **2 red wires = VCC 5V; 2 black wires = GND**
 
 ---
 
