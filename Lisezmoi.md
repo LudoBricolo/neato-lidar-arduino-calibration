@@ -11,7 +11,7 @@ Contrairement aux idées reçues et aux documentations souvent vagues sur le web
 * **Précision optique** : Mesure de distance ultra-stable et répétable (ex: ~260 mm constants sur une cible fixe).
 
 *  **Alimentation de la carte du Lidar Neato D8** : **2 Fils rouge = VCC 5V - 2 Fils noir = GND**
-
+*  **Communication TX du Lidar** : **TX = Fil blanc de la nappe 8 connecteurs**
 ---
 
 ## ⚠️ Piège technique important : Le faux problème du compte-tours
