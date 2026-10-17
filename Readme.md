@@ -11,6 +11,7 @@ Contrary to common misconceptions and vague online documentation (which often su
 * **Optical Precision**: Ultra-stable and repeatable distance measurements (e.g., a constant ~260 mm on a fixed target).
 
 *  **Power supply for the Neato D8 Lidar board** : **2 red wires = VCC 5V; 2 black wires = GND**
+*  **Lidar TX communication** : **TX = White wire of the 8-connector ribbon cable**
 
 ---
 
