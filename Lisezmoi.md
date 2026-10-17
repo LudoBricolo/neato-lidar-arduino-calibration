@@ -5,9 +5,12 @@ Ce dépôt documente les résultats de tests, de calibration et d'optimisation d
 ## 🎯 Résultats clés de la calibration
 Contrairement aux idées reçues et aux documentations souvent vagues sur le web (qui préconisent 3.3V ou 5V selon les générations), une métrologie rigoureuse avec une **alimentation de laboratoire stable** a permis d'établir les paramètres parfaits pour cet exemplaire :
 
+* **Référence du moteur** : **RF-300FA-12350 - DC5,9 V**
 * **Tension d'alimentation optimale du moteur** : **2.5 V**
 * **Vitesse stabilisée obtenue** : **~296 RPM** (très proche de la consigne théorique d'origine de 300 RPM, soit 5 Hz).
 * **Précision optique** : Mesure de distance ultra-stable et répétable (ex: ~260 mm constants sur une cible fixe).
+
+*  **Alimentation de la carte du Lidar Neato D8** : **2 Fils rouge = VCC 5V - 2 Fils noir = GND**
 
 ---
 
